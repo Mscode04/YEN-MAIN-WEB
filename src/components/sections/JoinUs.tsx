@@ -34,7 +34,7 @@ const JoinUs = () => {
               to join our mentor panel and share their expertise with the next generation
               of Kerala's innovators.
             </p>
-            <a href="#contact" className="yen-button-primary inline-block">
+            <a href="https://chat.whatsapp.com/HFdUPVAXEwxDv2wc9Xfjwo" className="yen-button-primary inline-block">
               Apply as Mentor
             </a>
           </motion.div>
@@ -67,7 +67,7 @@ const JoinUs = () => {
               community and contribute to its success. Together, we can create a thriving
               ecosystem for innovation.
             </p>
-            <a href="#contact" className="yen-button-secondary inline-block">
+            <a href="https://chat.whatsapp.com/HFdUPVAXEwxDv2wc9Xfjwo" className="yen-button-secondary inline-block">
               Apply as Member
             </a>
           </motion.div>

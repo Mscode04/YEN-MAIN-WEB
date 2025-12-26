@@ -69,10 +69,10 @@ const CTA = () => {
             transition={{ duration: 0.6, delay: 0.4 }}
             className="flex flex-col sm:flex-row gap-4 justify-center"
           >
-            <a href="https://yenkerala.org" target="_blank" rel="noopener noreferrer" className="yen-button-primary">
+            <a href="https://chat.whatsapp.com/HFdUPVAXEwxDv2wc9Xfjwo" target="_blank" rel="noopener noreferrer" className="yen-button-primary">
               Join the Network
             </a>
-            <a href="mailto:info@yenkerala.org" className="yen-button-secondary">
+            <a href="https://chat.whatsapp.com/HFdUPVAXEwxDv2wc9Xfjwo" className="yen-button-secondary">
               Get in Touch
             </a>
           </motion.div>

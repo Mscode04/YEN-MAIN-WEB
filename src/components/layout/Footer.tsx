@@ -46,7 +46,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a
-                href="https://youtube.com/@yenkerala"
+                href="https://chat.whatsapp.com/HFdUPVAXEwxDv2wc9Xfjwo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors duration-300"
@@ -58,7 +58,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a
-                href="https://linkedin.com/company/yenkerala"
+                href="https://chat.whatsapp.com/HFdUPVAXEwxDv2wc9Xfjwo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors duration-300"
@@ -107,12 +107,12 @@ const Footer = () => {
             © {currentYear} Young Entrepreneurs Network Kerala. All rights reserved.
           </p>
           <a
-            href="https://yenkerala.org"
+            href="https://yenkerala.com"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-primary hover:underline"
           >
-            www.yenkerala.org
+            www.yenkerala.com
           </a>
         </div>
       </div>
