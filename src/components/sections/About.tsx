@@ -23,18 +23,18 @@ const About = () => {
             </h2>
             <div className="space-y-6 text-left md:text-center">
               <p className="yen-body-lg">
-                The Young Entrepreneurs Network (YEN) is a premier community based in Kerala, 
-                dedicated to nurturing young entrepreneurs between the ages of 15 and 30.
+                The Young Entrepreneurs Network (YEN) is a premier community based in Kerala,
+                dedicated to nurturing young entrepreneurs between the ages of 12 and 30.
               </p>
               <p className="yen-body">
-                We provide unparalleled opportunities for mentorship, networking, and learning 
-                to inspire innovation and drive economic and social progress across the region. 
-                By fostering collaboration among like-minded visionaries and promoting a culture 
-                of creativity and leadership, YEN is shaping the next generation of successful 
+                We provide unparalleled opportunities for mentorship, networking, and learning
+                to inspire innovation and drive economic and social progress across the region.
+                By fostering collaboration among like-minded visionaries and promoting a culture
+                of creativity and leadership, YEN is shaping the next generation of successful
                 entrepreneurs.
               </p>
               <p className="yen-body">
-                Our mission is to empower ambitious individuals to achieve their dreams and 
+                Our mission is to empower ambitious individuals to achieve their dreams and
                 create lasting impact in their communities and beyond.
               </p>
             </div>

@@ -132,7 +132,7 @@ const Hero = () => {
             transition={{ duration: 0.6, delay: 0.4 }}
             className="yen-body-lg max-w-3xl mx-auto mb-12"
           >
-            A vibrant community dedicated to young entrepreneurs aged 15 to 30, providing
+            A vibrant community dedicated to young entrepreneurs aged 12 to 30, providing
             a platform for learning, collaboration, and empowerment to drive economic
             and social progress.
           </motion.p>

@@ -15,15 +15,15 @@ const Index = () => {
   useEffect(() => {
     // Update page title and meta
     document.title = "YEN Kerala - Young Entrepreneurs Network | Empowering Next-Gen Entrepreneurs";
-    
+
     // Update meta description
     const metaDescription = document.querySelector('meta[name="description"]');
     if (metaDescription) {
-      metaDescription.setAttribute("content", "Young Entrepreneurs Network (YEN) Kerala - A vibrant community dedicated to young entrepreneurs aged 15-30, providing mentorship, networking, and resources to drive innovation and success.");
+      metaDescription.setAttribute("content", "Young Entrepreneurs Network (YEN) Kerala - A vibrant community dedicated to young entrepreneurs aged 12-30, providing mentorship, networking, and resources to drive innovation and success.");
     } else {
       const meta = document.createElement("meta");
       meta.name = "description";
-      meta.content = "Young Entrepreneurs Network (YEN) Kerala - A vibrant community dedicated to young entrepreneurs aged 15-30, providing mentorship, networking, and resources to drive innovation and success.";
+      meta.content = "Young Entrepreneurs Network (YEN) Kerala - A vibrant community dedicated to young entrepreneurs aged 12-30, providing mentorship, networking, and resources to drive innovation and success.";
       document.head.appendChild(meta);
     }
   }, []);
