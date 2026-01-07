@@ -144,7 +144,7 @@ const Hero = () => {
             transition={{ duration: 0.6, delay: 0.6 }}
             className="flex flex-col sm:flex-row gap-4 justify-center mb-8"
           >
-            <a href="https://chat.whatsapp.com/HFdUPVAXEwxDv2wc9Xfjwo" className="yen-button-primary">
+            <a href="https://forms.gle/mHjKQSiPqpvqRSnE6" className="yen-button-primary">
               Join the Network
             </a>
             <a href="#about" className="yen-button-secondary">

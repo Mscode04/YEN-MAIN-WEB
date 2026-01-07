@@ -45,7 +45,7 @@ const Header = () => {
                 {link.label}
               </a>
             ))}
-            <a href="https://chat.whatsapp.com/HFdUPVAXEwxDv2wc9Xfjwo" className="yen-button-primary text-xs py-3 px-6">
+            <a href="https://forms.gle/mHjKQSiPqpvqRSnE6" className="yen-button-primary text-xs py-3 px-6">
               Get Started
             </a>
           </div>
